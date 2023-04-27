@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33403.182
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsTakip.Core", "IsTakip.Core\IsTakip.Core.csproj", "{19026658-FFC1-4DB2-B775-11EBA2FF2DEF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsTakip.Repository", "IsTakip.Repository\IsTakip.Repository.csproj", "{0E138CFF-0CFE-4EA3-A753-3038AD215CC3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsTakip.Service", "IsTakip.Services\IsTakip.Service.csproj", "{BDC5D6B8-E35C-48D4-B07C-5CAFDD5EEDC8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsTakip.API", "IsTakip.API\IsTakip.API.csproj", "{E266C29C-280A-4271-9442-87E56D8117E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IsTakip.Caching", "IsTakip.Caching\IsTakip.Caching.csproj", "{3AB269ED-CF62-4695-B59C-67098B01D8A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IsTakip.WebApp", "IsTakip.WebApp\IsTakip.WebApp.csproj", "{63B0E4CC-9A69-4472-A6D0-6D79FDDE8EF2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{19026658-FFC1-4DB2-B775-11EBA2FF2DEF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{19026658-FFC1-4DB2-B775-11EBA2FF2DEF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{19026658-FFC1-4DB2-B775-11EBA2FF2DEF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{19026658-FFC1-4DB2-B775-11EBA2FF2DEF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E138CFF-0CFE-4EA3-A753-3038AD215CC3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E138CFF-0CFE-4EA3-A753-3038AD215CC3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E138CFF-0CFE-4EA3-A753-3038AD215CC3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E138CFF-0CFE-4EA3-A753-3038AD215CC3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDC5D6B8-E35C-48D4-B07C-5CAFDD5EEDC8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDC5D6B8-E35C-48D4-B07C-5CAFDD5EEDC8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDC5D6B8-E35C-48D4-B07C-5CAFDD5EEDC8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDC5D6B8-E35C-48D4-B07C-5CAFDD5EEDC8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E266C29C-280A-4271-9442-87E56D8117E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E266C29C-280A-4271-9442-87E56D8117E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E266C29C-280A-4271-9442-87E56D8117E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E266C29C-280A-4271-9442-87E56D8117E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3AB269ED-CF62-4695-B59C-67098B01D8A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3AB269ED-CF62-4695-B59C-67098B01D8A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3AB269ED-CF62-4695-B59C-67098B01D8A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3AB269ED-CF62-4695-B59C-67098B01D8A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{63B0E4CC-9A69-4472-A6D0-6D79FDDE8EF2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{63B0E4CC-9A69-4472-A6D0-6D79FDDE8EF2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{63B0E4CC-9A69-4472-A6D0-6D79FDDE8EF2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{63B0E4CC-9A69-4472-A6D0-6D79FDDE8EF2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8CBC2274-5B17-442D-BFD7-652FF80EEBCC}
+	EndGlobalSection
+EndGlobal
