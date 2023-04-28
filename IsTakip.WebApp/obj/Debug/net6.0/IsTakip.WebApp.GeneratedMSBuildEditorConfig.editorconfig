@@ -1,0 +1,209 @@
+is_global = true
+build_property.TargetFramework = net6.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = IsTakip.WebApp
+build_property.RootNamespace = IsTakip.WebApp
+build_property.ProjectDir = C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.WebApp\
+build_property.RazorLangVersion = 6.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.WebApp
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Agenda/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Agenda/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Agenda/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWdlbmRhXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Business/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzaW5lc3NcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Business/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzaW5lc3NcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Business/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzaW5lc3NcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Business/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQnVzaW5lc3NcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/CustomerClass/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJDbGFzc1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/CustomerClass/Detail.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJDbGFzc1xEZXRhaWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/CustomerClass/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJDbGFzc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/CustomerClass/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJDbGFzc1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/CustomerRepresentative/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJSZXByZXNlbnRhdGl2ZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/CustomerRepresentative/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJSZXByZXNlbnRhdGl2ZVxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/CustomerRepresentative/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJSZXByZXNlbnRhdGl2ZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/CustomerRepresentative/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJSZXByZXNlbnRhdGl2ZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Customer/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Customer/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Customer/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Customer/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ3VzdG9tZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Jobfile/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iZmlsZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Jobfile/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iZmlsZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Jobfile/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSm9iZmlsZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Supplier/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Supplier/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Supplier/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Supplier/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU3VwcGxpZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/User/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/User/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/User/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/User/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXNlclxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/WareHouseInventory/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZUhvdXNlSW52ZW50b3J5XENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/WareHouseInventory/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZUhvdXNlSW52ZW50b3J5XERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/WareHouseInventory/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZUhvdXNlSW52ZW50b3J5XEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/WareHouseInventory/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZUhvdXNlSW52ZW50b3J5XEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/WareHouseShelf/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZUhvdXNlU2hlbGZcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/WareHouseShelf/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZUhvdXNlU2hlbGZcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/WareHouseShelf/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZUhvdXNlU2hlbGZcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Warehouse/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZWhvdXNlXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Warehouse/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZWhvdXNlXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Warehouse/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZWhvdXNlXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Warehouse/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcV2FyZWhvdXNlXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ALİ KEMAL/OneDrive/Masaüstü/IsTakipApp/IsTakip.WebApp/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-rizaixoarx

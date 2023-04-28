@@ -1,0 +1,12 @@
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\bin\Release\net6.0\IsTakip.Caching.deps.json
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\bin\Release\net6.0\IsTakip.Caching.dll
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\bin\Release\net6.0\IsTakip.Caching.pdb
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\obj\Release\net6.0\IsTakip.Caching.csproj.AssemblyReference.cache
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\obj\Release\net6.0\IsTakip.Caching.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\obj\Release\net6.0\IsTakip.Caching.AssemblyInfoInputs.cache
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\obj\Release\net6.0\IsTakip.Caching.AssemblyInfo.cs
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\obj\Release\net6.0\IsTakip.Caching.csproj.CoreCompileInputs.cache
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\obj\Release\net6.0\IsTakip.Caching.dll
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\obj\Release\net6.0\refint\IsTakip.Caching.dll
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\obj\Release\net6.0\IsTakip.Caching.pdb
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Caching\obj\Release\net6.0\ref\IsTakip.Caching.dll

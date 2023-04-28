@@ -1,0 +1,38 @@
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Repository.deps.json
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Repository.runtimeconfig.json
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Repository.dll
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Repository.pdb
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Core.dll
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Core.pdb
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.csproj.AssemblyReference.cache
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.AssemblyInfoInputs.cache
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.AssemblyInfo.cs
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.csproj.CoreCompileInputs.cache
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.csproj.CopyComplete
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.dll
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\refint\IsTakip.Repository.dll
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.pdb
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.genruntimeconfig.cache
+C:\Users\ALİ KEMAL\OneDrive\Masaüstü\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\ref\IsTakip.Repository.dll
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\Microsoft.Azure.Documents.ServiceInterop.dll
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\Cosmos.CRTCompat.dll
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Repository.deps.json
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Repository.runtimeconfig.json
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Repository.dll
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Repository.pdb
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Core.dll
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\bin\Debug\net6.0\IsTakip.Core.pdb
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.csproj.AssemblyReference.cache
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.AssemblyInfoInputs.cache
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.AssemblyInfo.cs
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.csproj.CoreCompileInputs.cache
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.csproj.CopyComplete
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.dll
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\refint\IsTakip.Repository.dll
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.pdb
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\IsTakip.Repository.genruntimeconfig.cache
+C:\Users\erayb\OneDrive\Masaüstü\wetransfer_sonunda_2023-04-27_0958\IsTakipApp\IsTakip.Repository\obj\Debug\net6.0\ref\IsTakip.Repository.dll
